@@ -1,7 +1,7 @@
 {
   "name": "frontend-javascript-country-information-world-regions",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Inleiding",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,9 +10,19 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
-    "parcel": "^2.0.0",
+    "parcel": "^2.2.1",
     "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadomirSorak/Country-Information-part-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RadomirSorak/Country-Information-part-1/issues"
+  },
+  "homepage": "https://github.com/RadomirSorak/Country-Information-part-1#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
   }
 }
